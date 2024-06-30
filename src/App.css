@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  width: 85%;
+  margin: auto;
+  justify-content: space-between;
+}
+
+.sidebar {
+  flex-basis: 25%;
+}
+
+.workarea {
+  flex-basis: 65%;
+}
+
+.border {
+  border-style: solid;
+}
+
+.text-center {
+  text-align: center;
+}
